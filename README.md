@@ -84,6 +84,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 ### AI Tools
 * [Agent Skills Work](https://agentskills.work/) - Professional no-code AI tools for real estate teams and business owners.
 * [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for property management and leasing offices, answering inbound calls 24/7, screening prospective tenants, and booking showings.
+* [RoomLab.app](https://roomlab.app) - AI virtual staging, decluttering and restyling for listing photos, plus walkthrough and house-tour videos made from still photos.
 
 ### 📰 PropTech News & Newsletters
 Stay up to date with the engineering and business side of real estate technology.
