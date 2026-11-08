@@ -76,6 +76,7 @@ For data scientists looking to train machine learning models or analyze macro-ec
 * [DealCheck](https://dealcheck.io/) - A very popular cloud-based deal analysis tool that allows you to import property data directly from Zillow.
 * [BiggerPockets Calculators](https://www.biggerpockets.com/investment-calculators) - The legacy standard for deal analysis, though gated behind a Pro paywall after 5 uses.
 * [Altyst](https://altyst.ai/) - Institutional-grade commercial real estate underwriting in the browser. Paste an address or a listing link, or upload an offering memorandum, rent roll or T-12, and it returns a full editable model (cash flows, IRR, equity multiple, DSCR, waterfall, sensitivity tables) for multifamily, hotel, office, retail, industrial, self-storage, medical office, mixed-use, land and ground-up development, with Excel, IC memo and lender package exports.
+* [CRE Assets](https://creassets.com/) - Software for commercial real estate sponsors: underwriting, investor CRM, e-signature subscriptions, branded investor portal, waterfall distributions and deal-level books on one record. Free Start plan; $299/month flat when you collect investor money. (Disclosure: added by its maker.)
 
 ### 🛠️ Open Source Real Estate Tools
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/) - Vital open-source mapping data for building real estate geographic information systems (GIS).
